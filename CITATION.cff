@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "OpenElections precinct results"
+authors:
+  - alias: "alpacasoft.dev"
+    website: "https://bsky.app/profile/did:plc:doukci4y75jxqhhb5y5447qr"
+identifiers:
+  - type: other
+    value: "at://did:plc:doukci4y75jxqhhb5y5447qr/org.cairnsproto.draft.snapshot/3mz6dyiqy34ic"
+    description: "Cairns snapshot, CID bafyreigukv5o4rw273o5fpih36jzdyswmjtbj5qagn3dhsnajhgsbrc3ui"

@@ -1,0 +1,12 @@
+{
+  "boundsUnit": "ppm",
+  "render": {
+    "cid": "bafyreihr4hcdiout6zthclb2arq3ajo6br5ww7ycp33wyfcvthhciosgta",
+    "uri": "at://did:plc:doukci4y75jxqhhb5y5447qr/org.cairnsproto.draft.check/3mz6dwe66yunb"
+  },
+  "snapshot": {
+    "cid": "bafyreigukv5o4rw273o5fpih36jzdyswmjtbj5qagn3dhsnajhgsbrc3ui",
+    "uri": "at://did:plc:doukci4y75jxqhhb5y5447qr/org.cairnsproto.draft.snapshot/3mz6dyiqy34ic"
+  },
+  "values": []
+}
